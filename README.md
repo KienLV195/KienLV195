@@ -20,9 +20,9 @@
 - 👌 Fun fact: Problem → sleep | Happy → sleep | Sad → sleep | Everything → sleep  
 
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+<!-- Snake Game -->
+![snake gif](https://github.com/KienLV195/KienLV195/blob/output/github-snake-dark.svg)
+
 
 
 
