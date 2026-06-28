@@ -54,9 +54,11 @@
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=KienLV195&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=KienLV195&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=21600)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=KienLV195&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KienLV195&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KienLV195&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=21600)
 
 </div>
 
